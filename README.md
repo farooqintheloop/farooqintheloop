@@ -17,7 +17,7 @@
     LinkedIn
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:umar57988@gmail.com">
+  <a href="mailto:thefarooq.dev@gmail.com">
     Email
   </a>
 </p>
@@ -162,6 +162,6 @@ https://muhammadumarfarooq.vercel.app
 https://www.linkedin.com/in/muhammad-umar-farooq-dev/
 
 **📧 Email:**
-[umar57988@gmail.com](mailto:umar57988@gmail.com)
+[umar57988@gmail.com](mailto:thefarooq.dev@gmail.com)
 
 </div>
