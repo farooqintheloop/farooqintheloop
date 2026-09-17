@@ -1,62 +1,167 @@
+<div align="center">
+
+<img src="./media/banner.png" alt="Muhammad Umar Farooq" width="100%"/>
+
 # Muhammad Umar Farooq
 
 ### Software Engineer · Full-Stack & Mobile Developer
 
-I build real-world web and mobile applications with a focus on **Flutter, React, Node.js, and modern full-stack architecture**.
+**Flutter • React • Node.js • MERN • Firebase • PostgreSQL**
 
-I've worked across **90+ client projects** and built independent products ranging from learning platforms and marketplaces to restaurant management and ordering systems.
+<p>
+  <a href="https://muhammadumarfarooq.vercel.app">
+    <strong>🎨 View My Portfolio →</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-umar-farooq-dev/">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:umar57988@gmail.com">
+    Email
+  </a>
+</p>
 
-### What I Build
+</div>
 
-* 📱 Cross-platform mobile applications with **Flutter**
-* 🌐 Full-stack web applications with **React, Node.js & Express**
-* 🗄️ Applications backed by **SQL, PostgreSQL, MongoDB & Firebase**
-* 🔐 Authentication, authorization and role-based systems
-* 📊 Dashboards, analytics and operational interfaces
-* 🏗️ REST APIs and structured backend architectures
-* ⚡ Product-focused interfaces designed for real-world workflows
+---
 
-### Featured Projects
+## 👨‍💻 About Me
 
-**🍽️ Foodler**
-Full-stack restaurant management and ordering platform featuring restaurant discovery, storefronts, menu management, order workflows, kitchen/bar operations, table reservations, staff roles and analytics.
+I'm a **Software Engineer** focused on building real-world web and mobile products.
 
-**🎓 LMS**
-Learning management platform built with Flutter and Firebase, covering course management, authentication, learning workflows and a structured mobile experience.
+I've worked across **20+ meaningful client projects**, alongside numerous smaller freelance development engagements. My work spans mobile applications, full-stack platforms, dashboards, marketplaces, management systems, and product-focused interfaces.
 
-**🔗 Dependency Visualizer**
-A TypeScript-based dependency visualization tool focused on making project relationships easier to understand.
+I enjoy taking an idea from **concept → architecture → implementation → polished user experience**.
 
-### Tech Stack
+### What I Work With
 
-**Languages**
+* 📱 **Mobile:** Flutter, Dart
+* 🌐 **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind
+* ⚙️ **Backend:** Node.js, Express.js, REST APIs
+* 🗄️ **Databases:** PostgreSQL, MongoDB, SQL, NoSQL, Firebase
+* 🔐 **Architecture:** Authentication, authorization, role-based systems, MVC
+* 🛠️ **Tools:** Git, GitHub, VS Code
 
-`Java` `JavaScript` `TypeScript` `Python` `Dart`
+---
 
-**Frontend & Mobile**
+## 🎨 See My UI & Product Work
 
-`React` `Flutter` `HTML` `CSS` `Tailwind CSS`
+If you want to see the **actual interfaces and products I've designed and built**, start here:
 
-**Backend**
+### 👉 [View My Portfolio](https://muhammadumarfarooq.vercel.app)
 
-`Node.js` `Express.js` `REST APIs`
+My portfolio showcases the visual side of my work — including application interfaces, dashboards, mobile experiences, and complete product concepts.
 
-**Databases & Services**
+**GitHub shows how I build it.
+My portfolio shows what I can make it look like.**
 
-`PostgreSQL` `MongoDB` `SQL` `NoSQL` `Firebase`
+---
 
-**Tools**
+## 🚀 Featured Projects
 
-`Git` `GitHub` `VS Code`
+### 🍽️ Foodler
 
-### Currently
+A full-stack restaurant management and ordering platform built around real restaurant workflows.
 
-🎯 Looking for opportunities where I can contribute as a **Software Engineer / Full-Stack Developer / Flutter Developer** while continuing to build and ship production-quality software.
+**Highlights:**
 
-### Connect
+* Restaurant marketplace and storefronts
+* Menu management
+* Cart and order management
+* Kitchen Display System
+* Bar operations
+* Table management & reservations
+* Delivery workflow
+* Staff roles and permissions
+* Reports & analytics
+* JWT authentication and role-based authorization
+* PostgreSQL / SQLite database support
+* Image upload and processing
 
-🌐 [Portfolio](https://muhammadumarfarooq.vercel.app)
+**Stack:** `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `SQLite` `Tailwind`
 
-💼 [LinkedIn](https://www.linkedin.com/in/muhammad-umar-farooq-dev/)
+👉 [Explore Foodler](https://github.com/farooqintheloop/Foodler)
 
-📧 **um [ar57988@gmail.com](mailto:ar57988@gmail.com)**
+---
+
+### 🎓 LMS
+
+A learning management platform built with Flutter and Firebase, designed around structured learning and course management workflows.
+
+**Stack:** `Flutter` `Dart` `Firebase`
+
+👉 [Explore LMS](https://github.com/farooqintheloop/LMS)
+
+---
+
+### 🔗 Dependency Visualizer
+
+A TypeScript-based dependency visualization tool designed to make project relationships easier to understand.
+
+**Stack:** `TypeScript`
+
+👉 [Explore Dependency Visualizer](https://github.com/farooqintheloop/Dependency-Visualizer)
+
+---
+
+## 🧩 Engineering Focus
+
+I particularly enjoy working on systems involving:
+
+* 🏗️ Full-stack application architecture
+* 📱 Cross-platform mobile development
+* 🔐 Authentication & authorization
+* 👥 Role-based access control
+* 📊 Dashboards & analytics
+* 🔄 REST API design
+* 🗄️ Database-driven applications
+* 🎨 Product UI & responsive interfaces
+* ⚡ Operational workflows and management systems
+
+---
+
+## 📈 How I Approach Projects
+
+```text
+Idea
+ ↓
+Understand the Problem
+ ↓
+Design the User Experience
+ ↓
+Plan the Architecture
+ ↓
+Build the Backend & APIs
+ ↓
+Build the Product Interface
+ ↓
+Connect Everything
+ ↓
+Test & Refine
+ ↓
+Ship
+```
+
+I care about both sides of the equation:
+
+**How the system works** and **how the user experiences it.**
+
+---
+
+## 📫 Let's Connect
+
+I'm currently interested in opportunities involving **Software Engineering, Full-Stack Development, Flutter, and product-focused application development**.
+
+<div align="center">
+
+**🌐 Portfolio:**
+https://muhammadumarfarooq.vercel.app
+
+**💼 LinkedIn:**
+https://www.linkedin.com/in/muhammad-umar-farooq-dev/
+
+**📧 Email:**
+[umar57988@gmail.com](mailto:umar57988@gmail.com)
+
+</div>
