@@ -1,16 +1,62 @@
-## Hi there 👋
+# Muhammad Umar Farooq
 
-<!--
-**farooqintheloop/farooqintheloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer · Full-Stack & Mobile Developer
 
-Here are some ideas to get you started:
+I build real-world web and mobile applications with a focus on **Flutter, React, Node.js, and modern full-stack architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked across **90+ client projects** and built independent products ranging from learning platforms and marketplaces to restaurant management and ordering systems.
+
+### What I Build
+
+* 📱 Cross-platform mobile applications with **Flutter**
+* 🌐 Full-stack web applications with **React, Node.js & Express**
+* 🗄️ Applications backed by **SQL, PostgreSQL, MongoDB & Firebase**
+* 🔐 Authentication, authorization and role-based systems
+* 📊 Dashboards, analytics and operational interfaces
+* 🏗️ REST APIs and structured backend architectures
+* ⚡ Product-focused interfaces designed for real-world workflows
+
+### Featured Projects
+
+**🍽️ Foodler**
+Full-stack restaurant management and ordering platform featuring restaurant discovery, storefronts, menu management, order workflows, kitchen/bar operations, table reservations, staff roles and analytics.
+
+**🎓 LMS**
+Learning management platform built with Flutter and Firebase, covering course management, authentication, learning workflows and a structured mobile experience.
+
+**🔗 Dependency Visualizer**
+A TypeScript-based dependency visualization tool focused on making project relationships easier to understand.
+
+### Tech Stack
+
+**Languages**
+
+`Java` `JavaScript` `TypeScript` `Python` `Dart`
+
+**Frontend & Mobile**
+
+`React` `Flutter` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**
+
+`Node.js` `Express.js` `REST APIs`
+
+**Databases & Services**
+
+`PostgreSQL` `MongoDB` `SQL` `NoSQL` `Firebase`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
+
+### Currently
+
+🎯 Looking for opportunities where I can contribute as a **Software Engineer / Full-Stack Developer / Flutter Developer** while continuing to build and ship production-quality software.
+
+### Connect
+
+🌐 [Portfolio](https://muhammadumarfarooq.vercel.app)
+
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-umar-farooq-dev/)
+
+📧 **um [ar57988@gmail.com](mailto:ar57988@gmail.com)**
